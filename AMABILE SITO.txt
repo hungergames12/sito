@@ -1,0 +1,1179 @@
+<!doctype html>
+<html lang="it-IT">
+<head>
+	<script type='text/javascript' src='//static.queue-it.net/script/queueclient.min.js'></script>
+<script
+   data-queueit-c='amabilejewels'
+   type='text/javascript'
+   src='//static.queue-it.net/script/queueconfigloader.min.js'>
+</script>
+	
+<script type='text/javascript' src='//static.queue-it.net/script/queueclient.min.js'></script>
+<script
+   data-queueit-c='amabilejewels'
+   type='text/javascript'
+   src='//static.queue-it.net/script/queueconfigloader.min.js'>
+</script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	
+
+	<title>Negozio &#8211; Amabile Jewels</title>
+<meta name='robots' content='max-image-preview:large' />
+<script type='application/javascript'>console.log('PixelYourSite Free version 9.4.6');</script>
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//cdn.iubenda.com' />
+<link rel='dns-prefetch' href='//cdn.scalapay.com' />
+<link rel="alternate" type="application/rss+xml" title="Amabile Jewels &raquo; Feed" href="https://amabilejewels.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Amabile Jewels &raquo; Feed dei commenti" href="https://amabilejewels.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Amabile Jewels &raquo; Prodotti Feed" href="https://amabilejewels.it/shop/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/amabilejewels.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://amabilejewels.it/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://amabilejewels.it/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=10.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-all-blocks-style-css' href='https://amabilejewels.it/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-all-blocks-style.css?ver=10.9.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 12px;--wp--preset--font-size--medium: 24px;--wp--preset--font-size--large: 40px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 18px;--wp--preset--font-size--huge: 64px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://amabilejewels.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://amabilejewels.it/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.3.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='gateway-css' href='https://amabilejewels.it/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/css/gateway.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='konte-fonts-css' href='https://fonts.googleapis.com/css?family=Crimson+Text%3A600%7CCrimson+Text&#038;subset=latin%2Clatin-ext&#038;ver=6.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://amabilejewels.it/wp-content/themes/konte/css/animate.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://amabilejewels.it/wp-content/themes/konte/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-grid-css' href='https://amabilejewels.it/wp-content/themes/konte/css/bootstrap.css?ver=3.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='konte-css' href='https://amabilejewels.it/wp-content/themes/konte/style.css?ver=1.8.1' type='text/css' media='all' />
+<style id='konte-inline-css' type='text/css'>
+.topbar {height: 38px}.header-main, .header-v10 .site-branding { height: 120px; }.header-bottom { height: 50px; }.header-mobile {height: 61px}.logo img {width: 135px;height: 40px;}.logo svg {width: 135px;height: 40px;}.hamburger-screen-background { background-image: url(http://komunikasi.it/amabile/wp-content/uploads/2020/08/2.jpg); }
+</style>
+<link rel='stylesheet' id='wc-pb-checkout-blocks-css' href='https://amabilejewels.it/wp-content/plugins/woocommerce-product-bundles/assets/css/frontend/checkout-blocks.css?ver=6.22.3' type='text/css' media='all' />
+<link rel='stylesheet' id='soo-wishlist-css' href='https://amabilejewels.it/wp-content/plugins/soo-wishlist/assets/css/wishlist.css?ver=1.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tawcvs-frontend-css' href='https://amabilejewels.it/wp-content/plugins/variation-swatches-for-woocommerce/assets/css/frontend.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tawcvs-frontend-for-listing-pages-css' href='https://amabilejewels.it/wp-content/plugins/variation-swatches-for-woocommerce/assets/css/frontend-list-products.css?ver=6.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css' href='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/css/select2.css?ver=8.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='konte-woocommerce-css' href='https://amabilejewels.it/wp-content/themes/konte/woocommerce.css?ver=6.3.2' type='text/css' media='all' />
+<style id='konte-woocommerce-inline-css' type='text/css'>
+.woocommerce-badge.onsale {background-color: #3ee590}.woocommerce-badge.new {background-color: #f0907a}.woocommerce-badge.featured {background-color: #ff736c}.woocommerce-badge.sold-out {background-color: #838889}
+</style>
+<link rel='stylesheet' id='wc-bundle-style-css' href='https://amabilejewels.it/wp-content/plugins/woocommerce-product-bundles/assets/css/frontend/woocommerce.css?ver=6.22.3' type='text/css' media='all' />
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Questo prodotto non è disponibile. Scegli un&#039;altra combinazione.</p>
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/w.js?ver=202401' id='woo-tracks-js'></script>
+
+<script  type="text/javascript" class=" _iub_cs_skip" id="iubenda-head-inline-scripts-0" type="text/javascript">
+var _iub = _iub || [];
+_iub.csConfiguration = {"ccpaAcknowledgeOnDisplay":true,"ccpaApplies":true,"consentOnContinuedBrowsing":false,"enableCcpa":true,"invalidateConsentWithoutLog":true,"perPurposeConsent":true,"siteId":2540829,"tcfPurposes":{"1":true,"2":"consent_only","3":"consent_only","4":"consent_only","5":"consent_only","6":"consent_only","7":"consent_only","8":"consent_only","9":"consent_only","10":"consent_only"},"whitelabel":false,"cookiePolicyId":52304325,"lang":"it", "banner":{ "acceptButtonColor":"#FEB2AB","acceptButtonDisplay":true,"backgroundColor":"#FEE6E6","closeButtonRejects":true,"customizeButtonColor":"#E8A490","customizeButtonDisplay":true,"explicitWithdrawal":true,"position":"bottom","rejectButtonColor":"#FEB2AB","rejectButtonDisplay":true,"textColor":"#000000" }};
+</script>
+<script  type="text/javascript" class=" _iub_cs_skip" type='text/javascript' src='//cdn.iubenda.com/cs/ccpa/stub.js?ver=3.7.6' id='iubenda-head-scripts-0-js'></script>
+<script  type="text/javascript" charset="UTF-8" async="" class=" _iub_cs_skip" type='text/javascript' src='//cdn.iubenda.com/cs/iubenda_cs.js?ver=3.7.6' id='iubenda-head-scripts-1-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.3.3' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.3.3' id='revmin-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.1.1' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Visualizza carrello","cart_url":"https:\/\/amabilejewels.it\/carrello\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.1.1' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.2.0' id='vc_woocommerce-add-to-cart-js-js'></script>
+<script src="https://cdn.scalapay.com/widget/v3/js/scalapay-widget.esm.js?ver=3.1.0" type="module"></script>
+<script src="https://cdn.scalapay.com/widget/v3/js/scalapay-widget.js?ver=3.1.0" nomodule="nomodule" type="text/javascript"></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.3.2' id='jquery-bind-first-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3' id='js-cookie-pys-js'></script>
+<script type='text/javascript' id='pys-js-extra'>
+/* <![CDATA[ */
+var pysOptions = {"staticEvents":{"facebook":{"init_event":[{"delay":0,"type":"static","name":"PageView","pixelIds":["215858579768343"],"eventID":"6a6fe580-1739-4daa-ad4f-f2507d2540e5","params":{"page_title":"Shop","post_type":"page","post_id":726,"plugin":"PixelYourSite","user_role":"guest","event_url":"amabilejewels.it\/shop\/"},"e_id":"init_event","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":[],"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["215858579768343"],"advancedMatching":[],"advancedMatchingEnabled":false,"removeMetadata":false,"contentParams":{"post_type":"page","post_id":726,"content_name":"Shop"},"commentEventEnabled":true,"wooVariableAsSimple":false,"downloadEnabled":true,"formEventEnabled":true,"serverApiEnabled":false,"wooCRSendFromServer":false,"send_external_id":null},"debug":"","siteUrl":"https:\/\/amabilejewels.it","ajaxUrl":"https:\/\/amabilejewels.it\/wp-admin\/admin-ajax.php","ajax_event":"1881b9f879","enable_remove_download_url_param":"1","cookie_duration":"7","last_visit_duration":"60","enable_success_send_form":"","ajaxForServerEvent":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"externalID_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_tiktok_consent_category":"marketing","cookiebot_google_ads_consent_category":null,"cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","consent_magic_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false},"cookie":{"disabled_all_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"woo":{"enabled":true,"enabled_save_data_to_orders":true,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","singleProductId":null,"removeFromCartSelector":"form.woocommerce-cart-form .remove","addToCartCatchMethod":"add_cart_hook","is_order_received_page":false,"containOrderId":false},"edd":{"enabled":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=9.4.6' id='pys-js'></script>
+<link rel="https://api.w.org/" href="https://amabilejewels.it/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://amabilejewels.it/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.3.2" />
+<meta name="generator" content="WooCommerce 8.1.1" />
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-120647902-20', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.3.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://amabilejewels.it/wp-content/uploads/2023/02/cropped-SCRITTAAMABILE-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://amabilejewels.it/wp-content/uploads/2023/02/cropped-SCRITTAAMABILE-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://amabilejewels.it/wp-content/uploads/2023/02/cropped-SCRITTAAMABILE-180x180.png" />
+<meta name="msapplication-TileImage" content="https://amabilejewels.it/wp-content/uploads/2023/02/cropped-SCRITTAAMABILE-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="yellow-pencil">
+/*
+	The following CSS generated by YellowPencil Plugin.
+	https://yellowpencil.waspthemes.com
+*/
+#topbar .topbar-left-items{text-align:center!important;float:none;}#topbar{background-color:#fee6e6;color:#0c0c0c;font-weight:500;}#page #topbar .konte-container-fluid .topbar-left-items{display:inline-block !important;}.woocommerce-products-header .thb-breadcrumb-bar nav{color:#0c0c0c;}#main .product .cart{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-content:normal;-ms-flex-line-pack:normal;align-content:normal;}.entry-summary .cart .single_add_to_cart_button{margin-top:5%;}.items-vertical .copyright a{color:#c70404;}#main .product .wcv-message{background-color:#f8c8c8 !important;color:#0c0c0c !important;font-weight:500 !important;display:block !important;}#main .product:nth-child(2) > .wcv-message:nth-child(1){display:none !important;display:none;}@media (max-width:3000px){.products-tools .products-filter-toggle a{display:none;}}@media (max-width:1199px){.products-toolbar .products-tools .woocommerce-result-count{display:none;display:none;}}@media (max-width:991px){.products-tools .products-filter-toggle a{display:inline-block;}}@media (max-width:480px){#content{padding-top:0px;}#flex-posts .flex-posts-page-title{margin-bottom:0px !important;padding-top:0px !important;}#flex-posts .flex-posts-page-title h1{position:relative;top:-32px;}}@media (max-width:414px){#flex-posts .flex-posts-page-title{margin-bottom:0px !important;padding-top:0px !important;padding-bottom:0px !important;}#content{padding-top:0px;}#flex-posts .flex-posts-page-title h1{position:relative;top:-39px;}}@media (min-width:991px){#content .konte-container #primary #main .product .entry-summary .cart a{margin-left:0px !important;}.entry-summary .cart a{margin-top:5%;}}@media (min-width:1199px){.products-toolbar .products-tools .woocommerce-result-count{display:none;}}
+</style></head>
+
+<body class="archive post-type-archive post-type-archive-product wp-embed-responsive theme-konte woocommerce-shop woocommerce woocommerce-page woocommerce-no-js hfeed sidebar-left wpb-js-composer js-comp-ver-6.2.0 vc_responsive woocommerce-active woocommerce-archive shop-layout-standard woocommerce-nav-loadmore woocommerce-header--minimal-fluid">
+
+
+<div id="svg-defs" class="svg-defs hidden"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol viewBox="0 0 24 24" id="account" xmlns="http://www.w3.org/2000/svg"><path d="M12 12c-2.5 0-4-1.5-4-4 0-2.39 1.61-4 4-4s4 1.61 4 4c0 2.5-1.5 4-4 4zm0-6c-.6 0-2 .19-2 2 0 1.42.58 2 2 2s2-.58 2-2c0-1.81-1.4-2-2-2zM18 20H6c-.55 0-1-.45-1-1 0-4.21 2.09-6 7-6s7 1.79 7 6c0 .55-.45 1-1 1zM7.04 18h9.92c-.17-1.76-1.04-3-4.96-3s-4.79 1.24-4.96 3z"/><path fill="none" d="M0 0h24v24H0z"/></symbol><symbol viewBox="2 2 10 10" id="arrow-breadcrumb" xmlns="http://www.w3.org/2000/svg"><path d="M9.156 7l-2.5 3.125-.669-.536L8.058 7 5.987 4.411l.669-.536z"/><path fill="none" d="M2 2h10v10H2z"/></symbol><symbol viewBox="0 0 32 32" id="arrow-down" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h32v32H0z"/><path d="M17 18V4h-2v14H9l7 10 7-10h-6zm-1.04 6.512L12.841 20H19.079l-3.119 4.512z"/></symbol><symbol viewBox="0 0 14 14" id="arrow-dropdown" xmlns="http://www.w3.org/2000/svg"><path d="M7 10.773L1.531 6.398l.938-1.171L7 8.851l4.531-3.624.938 1.171z"/><path fill="none" d="M0 0h14v14H0z"/></symbol><symbol viewBox="0 0 32 32" id="arrow-left" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h32v32H0z"/><path d="M14 17h14v-2H14V9L4 16l10 7v-6zm-6.512-1.04L12 12.841V19.079L7.488 15.96z"/></symbol><symbol viewBox="0 0 24 24" id="cart" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M19 10h-3V7c0-2.206-1.794-4-4-4S8 4.794 8 7v3H5c-.55 0-.908.441-.797.979l1.879 9.042c.112.538.654.979 1.204.979h9.429c.55 0 1.092-.441 1.203-.979l1.879-9.042C19.908 10.441 19.55 10 19 10zm-9-3c0-1.103.897-2 2-2s2 .897 2 2v3h-4V7zm6.087 12H7.913l-1.455-7h11.313l-1.684 7z"/></symbol><symbol viewBox="0 0 12 12" id="check-checkbox" xmlns="http://www.w3.org/2000/svg"><path d="M4.177 10.543L.434 6.8l1.132-1.132 2.611 2.611 6.258-6.256 1.13 1.132z"/></symbol><symbol viewBox="0 0 24 24" id="close" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M19.778 5.636l-1.414-1.414L12 10.586 5.636 4.222 4.222 5.636 10.586 12l-6.364 6.364 1.414 1.414L12 13.414l6.364 6.364 1.414-1.414L13.414 12z"/></symbol><symbol viewBox="0 0 18 18" id="close-mini" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h18v18H0z"/><path d="M11.576 5.576L9 8.152 6.424 5.576l-.848.848L8.152 9l-2.576 2.576.848.848L9 9.848l2.576 2.576.848-.848L9.848 9l2.576-2.576z"/><path d="M9 1a8 8 0 100 16A8 8 0 009 1zm0 15c-3.86 0-7-3.14-7-7s3.14-7 7-7 7 3.14 7 7-3.14 7-7 7z"/></symbol><symbol viewBox="0 0 16 16" id="comment" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h16v16H0z"/><path d="M13 3v8.826l-1.849-1.585L10.87 10H3V3h10m1-1H2v9h8.5l3.5 3V2z"/></symbol><symbol viewBox="0 0 40 40" id="error" xmlns="http://www.w3.org/2000/svg"><path d="M20 0C8.972 0 0 8.972 0 20s8.972 20 20 20 20-8.972 20-20S31.028 0 20 0zm0 38c-9.925 0-18-8.075-18-18S10.075 2 20 2s18 8.075 18 18-8.075 18-18 18z"/><path d="M25.293 13.293L20 18.586l-5.293-5.293-1.414 1.414L18.586 20l-5.293 5.293 1.414 1.414L20 21.414l5.293 5.293 1.414-1.414L21.414 20l5.293-5.293z"/></symbol><symbol viewBox="0 0 24 24" id="eye" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="2"/><path d="M16.466 6.748C15.238 5.583 13.619 5 12 5s-3.238.583-4.466 1.748L2 12l5.534 5.252C8.762 18.417 10.381 19 12 19s3.238-.583 4.466-1.748L22 12l-5.534-5.252zm-1.377 9.053C14.274 16.574 13.177 17 12 17s-2.274-.426-3.089-1.199L4.905 12 8.91 8.199C9.726 7.426 10.823 7 12 7s2.274.426 3.089 1.199L19.095 12l-4.006 3.801z"/><path fill="none" d="M0 0h24v24H0z"/></symbol><symbol viewBox="0 0 24 24" id="filter" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M9.859 7A3.991 3.991 0 006 4a4 4 0 000 8c1.862 0 3.412-1.278 3.859-3H22V7H9.859zM6 10a1.994 1.994 0 01-1.723-1C4.106 8.705 4 8.366 4 8s.106-.705.277-1c.347-.595.985-1 1.723-1s1.376.405 1.723 1c.171.295.277.634.277 1s-.106.705-.277 1c-.347.595-.985 1-1.723 1zM13 12a3.991 3.991 0 00-3.859 3H2v2h7.141c.446 1.722 1.997 3 3.859 3s3.412-1.278 3.859-3H22v-2h-5.141A3.991 3.991 0 0013 12zm0 6a1.994 1.994 0 01-1.723-1c-.171-.295-.277-.634-.277-1s.106-.705.277-1c.346-.595.984-1 1.723-1s1.376.405 1.723 1c.171.295.277.634.277 1s-.106.705-.277 1c-.347.595-.985 1-1.723 1z"/></symbol><symbol viewBox="0 0 20 20" id="gallery" xmlns="http://www.w3.org/2000/svg"><path d="M15 13H1V3h14v10zM3 11h10V5H3v6z"/><path d="M19 17H6v-2h11V8h2z"/><path fill="none" d="M0 0h20v20H0z"/></symbol><symbol viewBox="0 0 24 24" id="heart" xmlns="http://www.w3.org/2000/svg"><path d="M16.243 3.843c-1.28 0-2.559.488-3.536 1.464L12 6.015l-.707-.707c-.976-.976-2.256-1.464-3.536-1.464s-2.559.487-3.535 1.464a5 5 0 000 7.071L6.343 14.5l2.121 2.121L12 20.157l3.536-3.536 2.121-2.121 2.121-2.121a5 5 0 00-3.535-8.536z"/><path fill="none" d="M0 0h24v24H0z"/></symbol><symbol viewBox="0 0 24 24" id="heart-o" xmlns="http://www.w3.org/2000/svg"><path d="M16.243 5.843c.801 0 1.555.312 2.121.879a3.003 3.003 0 010 4.243l-2.121 2.121-2.121 2.121L12 17.328l-2.121-2.121-2.121-2.121-2.121-2.121a2.98 2.98 0 01-.879-2.121c0-.801.312-1.555.879-2.121a2.98 2.98 0 012.121-.879c.801 0 1.555.312 2.121.879l.707.707L12 8.843l1.414-1.414.707-.707a2.98 2.98 0 012.122-.879m0-2c-1.28 0-2.559.488-3.536 1.464L12 6.015l-.707-.707c-.976-.976-2.256-1.464-3.536-1.464s-2.559.487-3.535 1.464a5 5 0 000 7.071L6.343 14.5l2.121 2.121L12 20.157l3.536-3.536 2.121-2.121 2.121-2.121a5 5 0 00-3.535-8.536z"/><path fill="none" d="M0 0h24v24H0z"/></symbol><symbol viewBox="0 0 40 40" id="information" xmlns="http://www.w3.org/2000/svg"><path d="M20 40C8.972 40 0 31.028 0 20S8.972 0 20 0s20 8.972 20 20-8.972 20-20 20zm0-38C10.075 2 2 10.075 2 20s8.075 18 18 18 18-8.075 18-18S29.925 2 20 2z"/><path d="M19 16h2v12h-2zM19 12h2v2h-2z"/></symbol><symbol viewBox="0 0 16 16" id="left" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h16v16H0z"/><path d="M8.394 13.941L4.073 8l4.321-5.941 1.212.882L5.927 8l3.679 5.059z"/></symbol><symbol viewBox="0 0 24 24" id="menu" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M2 6h20v2H2zM2 16h20v2H2zM2 11h20v2H2z"/></symbol><symbol viewBox="0 0 16 16" id="minus" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h16v16H0z"/><path d="M3 7h10v2H3z"/></symbol><symbol viewBox="0 0 16 16" id="plus" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h16v16H0z"/><path d="M13 7H9V3H7v4H3v2h4v4h2V9h4z"/></symbol><symbol viewBox="3.5 4.5 16 16" id="plus-mini" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M3.5 4.5h16v16h-16z"/><path d="M15.5 11.5h-3v-3h-2v3h-3v2h3v3h2v-3h3z"/></symbol><symbol viewBox="0 0 24 24" id="plus-zoom" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M20 11h-7V4h-2v7H4v2h7v7h2v-7h7z"/></symbol><symbol viewBox="0 0 16 16" id="right" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h16v16H0z"/><path d="M7.606 13.941L11.927 8 7.606 2.059l-1.212.882L10.073 8l-3.679 5.059z"/></symbol><symbol viewBox="0 0 24 24" id="search" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M20 18.586l-3.402-3.402A6.953 6.953 0 0018 11c0-3.86-3.141-7-7-7-3.86 0-7 3.14-7 7 0 3.859 3.14 7 7 7 1.57 0 3.015-.526 4.184-1.402L18.586 20 20 18.586zM6 11c0-2.757 2.243-5 5-5s5 2.243 5 5-2.243 5-5 5-5-2.243-5-5z"/></symbol><symbol viewBox="0 0 16 16" id="share" xmlns="http://www.w3.org/2000/svg"><path d="M7 2.957V10h1V2.957l1.646 1.647.708-.708L7.5 1.043 4.646 3.896l.708.708z"/><path d="M10 6v1h1v6H4V7h1V6H3v8h9V6z"/><path fill="none" d="M0 0h16v16H0z"/></symbol><symbol viewBox="0 0 24 24" id="shop-bag" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M20.958 19.465l-.906-14.969a1.613 1.613 0 00-1.59-1.492H5.507c-.835 0-1.541.668-1.592 1.492l-.913 14.969c-.05.821.58 1.492 1.408 1.492H19.55a1.39 1.39 0 001.41-1.492zm-15.926-.503L5.884 5h12.2l.845 13.963H5.032z"/><path d="M13.97 6.993v2.52c0 .146-.06.447-.232.734-.286.476-.801.763-1.763.763-.961 0-1.477-.286-1.762-.763a1.594 1.594 0 01-.232-.735V6.993H7.986v2.52c0 .475.127 1.11.516 1.76.649 1.083 1.817 1.732 3.473 1.732 1.657 0 2.825-.65 3.474-1.732a3.473 3.473 0 00.516-1.76v-2.52H13.97z"/></symbol><symbol viewBox="0 0 24 24" id="shop-bag-2" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M18.395 3H4.87a.847.847 0 00-.847.847v16.27c0 .467.378.847.846.847h13.527c.469 0 .848-.38.848-.846V3.847A.848.848 0 0018.395 3zm-.847 16.27H5.715V4.694H17.55V19.27z"/><path d="M11.631 14.657a4.31 4.31 0 004.304-4.304V6.895a.847.847 0 10-1.693 0v3.458a2.615 2.615 0 01-2.611 2.61 2.614 2.614 0 01-2.611-2.61V6.895a.847.847 0 00-1.694 0v3.458a4.311 4.311 0 004.305 4.304z"/></symbol><symbol viewBox="0 0 24 24" id="shop-bag-3" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M18.388 19.768l-.81-12.346a1.071 1.071 0 00-1.069-1.001h-1.384A3.432 3.432 0 0011.696 3a3.432 3.432 0 00-3.428 3.421H6.884c-.565 0-1.032.438-1.07 1.001l-.812 12.392a1.072 1.072 0 001.07 1.141h11.25a1.071 1.071 0 001.066-1.187zM11.696 5.143c.707 0 1.282.573 1.286 1.278h-2.571a1.287 1.287 0 011.285-1.278zm-4.48 13.67l.671-10.25h7.619l.672 10.25H7.215z"/></symbol><symbol viewBox="0 0 24 24" id="shop-bag-4" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M18.633 20.101L18.09 8.143a.818.818 0 00-.817-.78h-2.455V6c0-1.654-1.346-3-3-3s-3 1.346-3 3v1.362H6.364a.818.818 0 00-.818.781l-.545 12.002a.818.818 0 00.817.855H17.82a.818.818 0 00.814-.899zm-8.179-14.1c0-.753.612-1.365 1.364-1.365.752 0 1.364.612 1.364 1.364v1.362h-2.728V6zm-3.78 13.363l.471-10.365h1.673v.818a.818.818 0 001.636 0v-.818h2.728v.818a.818.818 0 001.636 0v-.818h1.673l.47 10.365H6.675z"/></symbol><symbol viewBox="0 0 24 24" id="shop-bag-5" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M19.311 20.091L18.256 8.486a.794.794 0 00-.79-.723h-2.383V5.912A2.915 2.915 0 0012.171 3 2.915 2.915 0 009.26 5.912v1.851H6.877a.794.794 0 00-.79.723l-1.06 11.648a.794.794 0 00.791.866H18.525a.794.794 0 00.786-.909zm-8.463-14.18c0-.729.594-1.323 1.323-1.323.73 0 1.324.594 1.324 1.324v1.851h-2.647V5.912zm-4.16 13.5l.914-10.06h9.138l.915 10.06H6.688z"/><path d="M10.615 10.643a.801.801 0 00-.561-.233.801.801 0 00-.562.233.8.8 0 00-.232.562.8.8 0 00.232.561.801.801 0 00.562.232.8.8 0 00.561-.232.799.799 0 00.233-.561.799.799 0 00-.233-.562zM14.85 10.643a.801.801 0 00-.561-.233.8.8 0 00-.562.233.8.8 0 00-.232.562.8.8 0 00.232.561.8.8 0 00.562.232.8.8 0 00.562-.232.8.8 0 00.232-.561.8.8 0 00-.232-.562z"/></symbol><symbol viewBox="0 0 24 24" id="shop-cart" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"/><path d="M20.347 6.057a.818.818 0 00-.656-.33H7.09l-.222-2A.818.818 0 006.054 3H3.873a.818.818 0 000 1.636h1.45l.22 1.99.003.021.786 7.08a.818.818 0 00.813.728H17.57c.362 0 .68-.238.784-.584l2.122-7.091a.818.818 0 00-.128-.723zm-3.387 6.761H7.878l-.606-5.454h11.32l-1.632 5.454zM8.782 16.09a2.457 2.457 0 00-2.455 2.455A2.457 2.457 0 008.782 21a2.457 2.457 0 002.454-2.455 2.457 2.457 0 00-2.454-2.454zm0 3.274a.82.82 0 010-1.637.82.82 0 010 1.637zM15.273 16.09a2.457 2.457 0 00-2.455 2.455A2.457 2.457 0 0015.273 21a2.457 2.457 0 002.454-2.455 2.457 2.457 0 00-2.454-2.454zm0 3.274a.82.82 0 010-1.637.82.82 0 010 1.637z"/></symbol><symbol viewBox="0 0 24 24" id="socials" xmlns="http://www.w3.org/2000/svg"><path d="M17 13c-1.2 0-2.266.542-3 1.382l-3.091-1.546c.058-.27.091-.549.091-.836 0-.287-.033-.566-.091-.836L14 9.618c.734.84 1.8 1.382 3 1.382 2.206 0 4-1.794 4-4s-1.794-4-4-4-4 1.794-4 4c0 .287.033.566.091.836L10 9.382A3.975 3.975 0 007 8c-2.206 0-4 1.794-4 4s1.794 4 4 4c1.2 0 2.266-.542 3-1.382l3.091 1.546c-.058.27-.091.549-.091.836 0 2.206 1.794 4 4 4s4-1.794 4-4-1.794-4-4-4zm0-8c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2zM7 14c-1.103 0-2-.897-2-2s.897-2 2-2 2 .897 2 2-.897 2-2 2zm10 5c-1.103 0-2-.897-2-2s.897-2 2-2 2 .897 2 2-.897 2-2 2z"/><path fill="none" d="M0 0h24v24H0z"/></symbol><symbol viewBox="0 0 12 12" id="star" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h12v12H0z"/><path d="M6 1l1.18 3.82L11 5 7.91 7.18 9.09 11 6 8.639 2.91 11l1.18-3.82L1 5l3.82-.18z"/></symbol><symbol viewBox="0 0 40 40" id="success" xmlns="http://www.w3.org/2000/svg"><path d="M20 40C8.972 40 0 31.028 0 20S8.972 0 20 0s20 8.972 20 20-8.972 20-20 20zm0-38C10.075 2 2 10.075 2 20s8.075 18 18 18 18-8.075 18-18S29.925 2 20 2z"/><path d="M18 27.414l-6.707-6.707 1.414-1.414L18 24.586l11.293-11.293 1.414 1.414z"/></symbol><symbol viewBox="0 0 20 20" id="video" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h20v20H0z"/><path d="M5 4l10 6-10 6z"/></symbol><symbol viewBox="0 0 40 40" id="warning" xmlns="http://www.w3.org/2000/svg"><path d="M20 40C8.972 40 0 31.028 0 20S8.972 0 20 0s20 8.972 20 20-8.972 20-20 20zm0-38C10.075 2 2 10.075 2 20s8.075 18 18 18 18-8.075 18-18S29.925 2 20 2z"/><path d="M19 15h2v6h-2zM19 23h2v2h-2z"/><path d="M26 29H14c-1.673 0-3.016-.648-3.684-1.778s-.589-2.618.218-4.085l6.18-11.238c.825-1.5 1.992-2.325 3.286-2.325s2.461.825 3.285 2.325l6.182 11.238c.807 1.467.886 2.955.218 4.085S27.674 29 26 29zm-6-17.426c-.524 0-1.083.47-1.534 1.289l-6.18 11.238c-.457.831-.548 1.598-.249 2.104.299.505 1.015.795 1.963.795h12c.948 0 1.664-.29 1.963-.796s.209-1.272-.248-2.103l-6.182-11.239c-.451-.818-1.01-1.288-1.533-1.288z"/></symbol></svg>
+</div>
+<div id="page" class="site">
+
+	<div id="topbar" class="topbar topbar-mobile topbar-mobile--keep-left dark text-light">
+	<div class="konte-container-fluid">
+					<div class="topbar-items topbar-left-items">
+				<div class="topbar-text">SPEDIZIONE GRATUITA SOPRA I 100€</div>			</div>
+		
+			</div>
+</div>
+
+	<header id="masthead" class="site-header light text-dark header-prebuild header-v2 transparent-hover header-sticky--smart">
+
+				<div class="header-main header-contents no-center">
+			<div class="konte-container-fluid">
+									
+					<div class="header-left-items header-items has-menu">
+						<div class="header-hamburger hamburger-menu" data-target="hamburger-fullscreen">
+	<div class="hamburger-box">
+		<div class="hamburger-inner"></div>
+	</div>
+</div>
+<div class="site-branding">
+	<a href="https://amabilejewels.it" class="logo">
+					<img src="https://amabilejewels.it/wp-content/uploads/2023/02/SCRITTAAMABILE.png" alt="Amabile Jewels" class="logo-dark" width="135" height="40">
+			<img src="https://amabilejewels.it/wp-content/uploads/2023/02/SCRITTAAMABILE.png" alt="Amabile Jewels" class="logo-light" width="135" height="40">
+			</a>
+
+	<p class="site-title"><a href="https://amabilejewels.it/" rel="home">Amabile Jewels</a></p>	<p class="site-description">silver 925/gold plated/gold</p></div>
+<nav id="primary-menu" class="main-navigation primary-navigation">
+	<ul id="menu-menu-rompina" class="menu nav-menu"><li id="menu-item-29178" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29178"><a href="https://amabilejewels.it/categoria-prodotto/lovli/">LOVLI</a></li>
+<li id="menu-item-3059" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-3059"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/">ORECCHINI<span class="caret"><i class="fa fa-angle-down"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-29525" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29525"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/i-nostri-classici/">I NOSTRI CLASSICI</a></li>
+	<li id="menu-item-29531" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29531"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/i-nostri-colorati/">I NOSTRI COLORATI</a></li>
+	<li id="menu-item-29544" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29544"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/i-nostri-esclusivi/">I NOSTRI ESCLUSIVI</a></li>
+</ul>
+</li>
+<li id="menu-item-3061" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3061"><a href="https://amabilejewels.it/categoria-prodotto/collane/">COLLANE</a></li>
+<li id="menu-item-3060" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3060"><a href="https://amabilejewels.it/categoria-prodotto/anelli/">ANELLI</a></li>
+<li id="menu-item-3062" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3062"><a href="https://amabilejewels.it/categoria-prodotto/braccialetti/">BRACCIALI</a></li>
+<li id="menu-item-79172" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-79172"><a href="https://amabilejewels.it/categoria-prodotto/set/">SET</a></li>
+<li id="menu-item-3066" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item menu-item-3066"><a href="https://amabilejewels.it/shop/" aria-current="page">TUTTI I GIOIELLI</a></li>
+</ul></nav>
+					</div>
+
+									
+					<div class="header-right-items header-items ">
+						<div class="header-account header-account--icon">
+			<a href="https://amabilejewels.it/my-account/" data-toggle="off-canvas" data-target="login-panel">
+			<span class="svg-icon icon-account size-normal "><svg role="img"> <use href="#account" xlink:href="#account"></use> </svg></span>		</a>
+	</div>
+
+<div class="header-search icon">
+			<form method="get" action="https://amabilejewels.it/">
+			<label>
+				<span class="svg-icon icon-search size-normal search-icon"><svg role="img"> <use href="#search" xlink:href="#search"></use> </svg></span>				<input type="text" name="s" class="search-field" value="" placeholder="Ricerca" autocomplete="off">
+									<input type="hidden" name="post_type" value="product">
+							</label>
+		</form>
+
+			</div>
+<div class="header-wishlist">
+			<a href="https://amabilejewels.it/wishlist-2/" class="wishlist-contents">
+				<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+				<span class="counter wishlist-counter">0</span>
+			</a>
+		</div>
+<div class="header-cart">
+	<a href="https://amabilejewels.it/carrello/" data-toggle="off-canvas" data-target="cart-panel">
+		<span class="svg-icon icon-cart size-normal shopping-cart-icon"><svg role="img"> <use href="#cart" xlink:href="#cart"></use> </svg></span>		<span class="counter cart-counter">0</span>
+	</a>
+</div>
+					</div>
+
+							</div>
+		</div>
+		
+	<div class="header-mobile custom logo-center">
+		<div class="konte-container-fluid">
+			
+<div class="mobile-menu-hamburger">
+	<button class="mobile-menu-toggle hamburger-menu" data-toggle="off-canvas" data-target="mobile-menu">
+		<span class="hamburger-box">
+			<span class="hamburger-inner"></span>
+		</span>
+	</button>
+</div>
+
+	<div class="site-branding">
+	<a href="https://amabilejewels.it" class="logo">
+					<img src="https://amabilejewels.it/wp-content/uploads/2023/02/SCRITTAAMABILE.png" alt="Amabile Jewels" class="logo-dark" width="135" height="40">
+			<img src="https://amabilejewels.it/wp-content/uploads/2023/02/SCRITTAAMABILE.png" alt="Amabile Jewels" class="logo-light" width="135" height="40">
+			</a>
+
+		</div>
+
+<div class="mobile-header-icons">
+	
+<div class="header-cart">
+	<a href="https://amabilejewels.it/carrello/" data-toggle="off-canvas" data-target="cart-panel">
+		<span class="svg-icon icon-cart size-normal shopping-cart-icon"><svg role="img"> <use href="#cart" xlink:href="#cart"></use> </svg></span>		<span class="counter cart-counter">0</span>
+	</a>
+</div>
+</div>
+		</div>
+	</div>
+
+	
+	</header><!-- #masthead -->
+
+	
+	<div class="site-header-space">
+					<div class="header-main"></div>
+		
+		
+		<div class="header-mobile"></div>
+	</div>
+	
+	<div id="content" class="site-content">
+
+		
+		<header class="woocommerce-products-header layout-minimal">
+			<div class="woocommerce-products-header__container konte-container-fluid">
+									<h1 class="woocommerce-products-header__title page-title">Shop</h1>
+				
+				<nav class="woocommerce-breadcrumb breadcrumbs"><a href="https://amabilejewels.it">Home</a><span class="svg-icon icon-arrow-breadcrumb size-normal delimiter"><svg role="img"> <use href="#arrow-breadcrumb" xlink:href="#arrow-breadcrumb"></use> </svg></span>Shop</nav>			</div>
+		</header>
+
+		
+		<div class="site-content-container shop-content-container konte-container">
+		<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+		<div class="woocommerce-notices-wrapper"></div>
+		<div class="products-toolbar layout-v3">
+			
+			<div class="products-tools clearfix">
+						<p class="products-filter-toggle">
+			<a href="#products-filter" class="toggle-filters" data-toggle="off-canvas" data-target="products-filter">
+				<span class="svg-icon icon-filter size-normal "><svg role="img"> <use href="#filter" xlink:href="#filter"></use> </svg></span>				Filtro			</a>
+		</p>
+
+		
+			<div id="products-filter" class="products-filter-sidebar products-filter offscreen-panel">
+				<div class="backdrop"></div>
+				<div class="panel">
+					<div class="hamburger-menu button-close active">
+						<span class="menu-text">Chiudere</span>
+						<div class="hamburger-box">
+							<div class="hamburger-inner"></div>
+						</div>
+					</div>
+
+					<div class="panel-header">
+						<h3>Filtro</h3>
+					</div>
+
+					<div class="panel-content filter-widgets">
+						<section id="konte-products-filter-2" class="widget woocommerce products-filter-widget"><h4 class="widget-title">FILTRI</h4><form action="https://amabilejewels.it/shop/" method="get" class="ajax-filter instant-filter"><div class="filters">
+		<div class="filter product_cat checkboxes ">
+							<span class="filter-name">FILTRA PER CATEGORIA</span>
+			
+			<div class="filter-control">
+				<ul class="filter-checkboxes"><li class="filter-checkboxes-item " data-value="i-nostri-classici"><span class="name">I NOSTRI CLASSICI</span><span class="count">16</span></li><li class="filter-checkboxes-item " data-value="i-nostri-colorati"><span class="name">I NOSTRI COLORATI</span><span class="count">62</span></li><li class="filter-checkboxes-item " data-value="i-nostri-esclusivi"><span class="name">I NOSTRI ESCLUSIVI</span><span class="count">40</span></li><li class="filter-checkboxes-item " data-value="lovli"><span class="name">LOVLI</span><span class="count">61</span></li><li class="filter-checkboxes-item " data-value="set"><span class="name">SET</span><span class="count">53</span></li><li class="filter-checkboxes-item " data-value="anelli"><span class="name">ANELLI</span><span class="count">43</span></li><li class="filter-checkboxes-item " data-value="braccialetti"><span class="name">BRACCIALI</span><span class="count">11</span></li><li class="filter-checkboxes-item " data-value="collane"><span class="name">COLLANE</span><span class="count">36</span></li><li class="filter-checkboxes-item " data-value="orecchini"><span class="name">ORECCHINI</span><span class="count">172</span></li><li class="filter-checkboxes-item " data-value="buono-regalo"><span class="name">BUONO REGALO</span><span class="count">1</span></li></ul><input type="hidden" name="product_cat" value="" disabled>			</div>
+		</div>
+
+		
+		<div class="filter product_tag checkboxes ">
+							<span class="filter-name">FILTRA PER MATERIALE</span>
+			
+			<div class="filter-control">
+				<ul class="filter-checkboxes"><li class="filter-checkboxes-item " data-value="argento-925"><span class="name">ARGENTO 925</span><span class="count">126</span></li><li class="filter-checkboxes-item " data-value="argento-925-placcato-oro"><span class="name">ARGENTO 925 PLACCATO ORO</span><span class="count">129</span></li></ul><input type="hidden" name="product_tag" value="" disabled>			</div>
+		</div>
+
+		
+		<div class="filter price slider ">
+							<span class="filter-name">FILTRA PER PREZZO</span>
+			
+			<div class="filter-control">
+				<div class="widget woocommerce widget_price_filter"><h2 class="widgettitle">Filtra per prezzo</h2>
+
+	<div class="price_slider_wrapper">
+		<div class="price_slider" style="display:none;"></div>
+		<div class="price_slider_amount" data-step="10">
+			<label class="screen-reader-text" for="min_price">Prezzo Min</label>
+			<input type="text" id="min_price" name="min_price" value="0" data-min="0" placeholder="Prezzo Min" />
+			<label class="screen-reader-text" for="max_price">Prezzo Max</label>
+			<input type="text" id="max_price" name="max_price" value="320" data-max="320" placeholder="Prezzo Max" />
+						<button type="submit" class="button">Filtra</button>
+			<div class="price_label" style="display:none;">
+				Prezzo: <span class="from"></span> &mdash; <span class="to"></span>
+			</div>
+			<input type="hidden" name="filter" value="1" />			<div class="clear"></div>
+		</div>
+	</div>
+
+
+</div>			</div>
+		</div>
+
+		<input type="hidden" name="filter" value="1"></div><button type="submit" value="Filter" class="button filter-button">Filter</button><button type="reset" value="Reset Filter" class="button alt reset-button">Reset Filter</button><span class="products-loader"><span class="spinner"></span></span></form></section>					</div>
+				</div>
+			</div>
+
+				<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Ordine negozio">
+					<option value="popularity" >Popolarità</option>
+					<option value="rating" >Valutazione media</option>
+					<option value="date"  selected='selected'>Ordina in base al più recente</option>
+					<option value="price" >Prezzo: dal più economico</option>
+					<option value="price-desc" >Prezzo: dal più caro</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="filter" value="1" /></form>
+
+		<p class="woocommerce-result-count">
+			297i Prodotti d		</p>
+
+					</div>
+
+					</div>
+
+		<ul class="products hover-other_image main-products layout-standard columns-3"><li class="product type-product post-197043 status-publish first instock product_cat-set has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<div class="product-inner"><div class="product-thumbnail"><a href="https://amabilejewels.it/prodotto/kit-regalo-natalizio/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="680" height="680" src="https://amabilejewels.it/wp-content/uploads/2023/12/IMG_5729-2-680x680.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://amabilejewels.it/wp-content/uploads/2023/12/IMG_5729-2-680x680.jpg 680w, https://amabilejewels.it/wp-content/uploads/2023/12/IMG_5729-2-150x150.jpg 150w" sizes="(max-width: 680px) 100vw, 680px" /></a></div><div class="product-summary"><h2 class="woocommerce-loop-product__title"><a href="https://amabilejewels.it/prodotto/kit-regalo-natalizio/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">KIT REGALO NATALIZIO</a></h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>2,99</bdi></span></span>
+<div class="buttons clearfix"><a href="?add-to-cart=197043" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart woocommerce-loop-product__button" data-product_id="197043" data-product_sku="kit-regalo-natalizio" aria-label="Aggiungi &ldquo;KIT REGALO NATALIZIO&rdquo; al tuo carrello" aria-describedby="" rel="nofollow">Aggiungi al carrello</a><a href="https://amabilejewels.it/prodotto/kit-regalo-natalizio/" class="quick_view_button quick-view-button button" data-toggle="modal" data-target="quick-view-modal" data-product_id="197043" rel="nofollow">
+				<span class="svg-icon icon-eye size-normal "><svg role="img"> <use href="#eye" xlink:href="#eye"></use> </svg></span>
+			</a><a href="/shop/?filter=1&#038;add_to_wishlist=197043" data-product_id="197043" data-product_type="simple" class="button add-to-wishlist-button add-to-wishlist-197043 " rel="nofollow">
+				<span class="add-to-wishlist add">
+					<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="adding-to-wishlist adding">
+					<span class="spinner"></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="brow-wishlist added">
+					<span class="svg-icon icon-heart size-normal "><svg role="img"> <use href="#heart" xlink:href="#heart"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+			</a></div></div></div></li>
+<li class="product type-product post-179289 status-publish instock product_cat-set product_tag-argento-925-placcato-oro has-post-thumbnail sale taxable shipping-taxable purchasable product-type-bundle">
+	<div class="product-inner"><span class="woocommerce-badges woocommerce-badges--rectangle">
+	<span class="onsale woocommerce-badge"><span>SCONTO</span></span>
+	</span><div class="product-thumbnail"><a href="https://amabilejewels.it/prodotto/set-christmas-placcato-oro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="680" height="680" src="https://amabilejewels.it/wp-content/uploads/2023/12/O33A9410-copia-2-680x680.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://amabilejewels.it/wp-content/uploads/2023/12/O33A9410-copia-2-680x680.jpg 680w, https://amabilejewels.it/wp-content/uploads/2023/12/O33A9410-copia-2-150x150.jpg 150w" sizes="(max-width: 680px) 100vw, 680px" /></a></div><div class="product-summary"><h2 class="woocommerce-loop-product__title"><a href="https://amabilejewels.it/prodotto/set-christmas-placcato-oro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">SET CHRISTMAS PLACCATO ORO</a></h2>
+	<span class="price"><ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>99,90</bdi></span></ins> <del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>103,60</bdi></span></del></span>
+<div class="buttons clearfix"><a href="/shop/?filter=1&#038;add-to-cart=179289" data-quantity="1" class="button product_type_bundle add_to_cart_button ajax_add_to_cart woocommerce-loop-product__button" data-product_id="179289" data-product_sku="set-christmas-o" aria-label="Leggi di più su &quot;SET CHRISTMAS PLACCATO ORO&quot;" aria-describedby="" rel="nofollow">Aggiungi al carrello</a><a href="https://amabilejewels.it/prodotto/set-christmas-placcato-oro/" class="quick_view_button quick-view-button button" data-toggle="modal" data-target="quick-view-modal" data-product_id="179289" rel="nofollow">
+				<span class="svg-icon icon-eye size-normal "><svg role="img"> <use href="#eye" xlink:href="#eye"></use> </svg></span>
+			</a><a href="/shop/?filter=1&#038;add_to_wishlist=179289" data-product_id="179289" data-product_type="bundle" class="button add-to-wishlist-button add-to-wishlist-179289 " rel="nofollow">
+				<span class="add-to-wishlist add">
+					<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="adding-to-wishlist adding">
+					<span class="spinner"></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="brow-wishlist added">
+					<span class="svg-icon icon-heart size-normal "><svg role="img"> <use href="#heart" xlink:href="#heart"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+			</a></div></div></div></li>
+<li class="product type-product post-179286 status-publish last instock product_cat-set product_tag-argento-925 has-post-thumbnail sale taxable shipping-taxable purchasable product-type-bundle">
+	<div class="product-inner"><span class="woocommerce-badges woocommerce-badges--rectangle">
+	<span class="onsale woocommerce-badge"><span>SCONTO</span></span>
+	</span><div class="product-thumbnail"><a href="https://amabilejewels.it/prodotto/set-christmas-argento/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="680" height="680" src="https://amabilejewels.it/wp-content/uploads/2023/12/O33A9406-copia-2-680x680.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://amabilejewels.it/wp-content/uploads/2023/12/O33A9406-copia-2-680x680.jpg 680w, https://amabilejewels.it/wp-content/uploads/2023/12/O33A9406-copia-2-150x150.jpg 150w" sizes="(max-width: 680px) 100vw, 680px" /></a></div><div class="product-summary"><h2 class="woocommerce-loop-product__title"><a href="https://amabilejewels.it/prodotto/set-christmas-argento/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">SET CHRISTMAS ARGENTO</a></h2>
+	<span class="price"><ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>86,90</bdi></span></ins> <del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>91,60</bdi></span></del></span>
+<div class="buttons clearfix"><a href="/shop/?filter=1&#038;add-to-cart=179286" data-quantity="1" class="button product_type_bundle add_to_cart_button ajax_add_to_cart woocommerce-loop-product__button" data-product_id="179286" data-product_sku="set-christmas-a" aria-label="Leggi di più su &quot;SET CHRISTMAS ARGENTO&quot;" aria-describedby="" rel="nofollow">Aggiungi al carrello</a><a href="https://amabilejewels.it/prodotto/set-christmas-argento/" class="quick_view_button quick-view-button button" data-toggle="modal" data-target="quick-view-modal" data-product_id="179286" rel="nofollow">
+				<span class="svg-icon icon-eye size-normal "><svg role="img"> <use href="#eye" xlink:href="#eye"></use> </svg></span>
+			</a><a href="/shop/?filter=1&#038;add_to_wishlist=179286" data-product_id="179286" data-product_type="bundle" class="button add-to-wishlist-button add-to-wishlist-179286 " rel="nofollow">
+				<span class="add-to-wishlist add">
+					<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="adding-to-wishlist adding">
+					<span class="spinner"></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="brow-wishlist added">
+					<span class="svg-icon icon-heart size-normal "><svg role="img"> <use href="#heart" xlink:href="#heart"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+			</a></div></div></div></li>
+<li class="product type-product post-179281 status-publish first instock product_cat-set product_tag-argento-925 has-post-thumbnail sale taxable shipping-taxable purchasable product-type-bundle">
+	<div class="product-inner"><span class="woocommerce-badges woocommerce-badges--rectangle">
+	<span class="onsale woocommerce-badge"><span>SCONTO</span></span>
+	</span><div class="product-thumbnail"><a href="https://amabilejewels.it/prodotto/set-zenzy-argento/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="680" height="680" src="https://amabilejewels.it/wp-content/uploads/2023/12/O33A9385-copia2-680x680.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://amabilejewels.it/wp-content/uploads/2023/12/O33A9385-copia2-680x680.jpg 680w, https://amabilejewels.it/wp-content/uploads/2023/12/O33A9385-copia2-150x150.jpg 150w" sizes="(max-width: 680px) 100vw, 680px" /></a></div><div class="product-summary"><h2 class="woocommerce-loop-product__title"><a href="https://amabilejewels.it/prodotto/set-zenzy-argento/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">SET ZENZY ARGENTO</a></h2>
+	<span class="price"><ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>99,90</bdi></span></ins> <del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>105,60</bdi></span></del></span>
+<div class="buttons clearfix"><a href="/shop/?filter=1&#038;add-to-cart=179281" data-quantity="1" class="button product_type_bundle add_to_cart_button ajax_add_to_cart woocommerce-loop-product__button" data-product_id="179281" data-product_sku="set-zenzi-a" aria-label="Leggi di più su &quot;SET ZENZY ARGENTO&quot;" aria-describedby="" rel="nofollow">Aggiungi al carrello</a><a href="https://amabilejewels.it/prodotto/set-zenzy-argento/" class="quick_view_button quick-view-button button" data-toggle="modal" data-target="quick-view-modal" data-product_id="179281" rel="nofollow">
+				<span class="svg-icon icon-eye size-normal "><svg role="img"> <use href="#eye" xlink:href="#eye"></use> </svg></span>
+			</a><a href="/shop/?filter=1&#038;add_to_wishlist=179281" data-product_id="179281" data-product_type="bundle" class="button add-to-wishlist-button add-to-wishlist-179281 " rel="nofollow">
+				<span class="add-to-wishlist add">
+					<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="adding-to-wishlist adding">
+					<span class="spinner"></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="brow-wishlist added">
+					<span class="svg-icon icon-heart size-normal "><svg role="img"> <use href="#heart" xlink:href="#heart"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+			</a></div></div></div></li>
+<li class="product type-product post-179271 status-publish instock product_cat-set product_tag-argento-925-placcato-oro has-post-thumbnail sale taxable shipping-taxable purchasable product-type-bundle">
+	<div class="product-inner"><span class="woocommerce-badges woocommerce-badges--rectangle">
+	<span class="onsale woocommerce-badge"><span>SCONTO</span></span>
+	</span><div class="product-thumbnail"><a href="https://amabilejewels.it/prodotto/set-zenzy-placcato-oro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="680" height="680" src="https://amabilejewels.it/wp-content/uploads/2023/12/O33A9388-copia-680x680.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://amabilejewels.it/wp-content/uploads/2023/12/O33A9388-copia-680x680.jpg 680w, https://amabilejewels.it/wp-content/uploads/2023/12/O33A9388-copia-150x150.jpg 150w" sizes="(max-width: 680px) 100vw, 680px" /></a></div><div class="product-summary"><h2 class="woocommerce-loop-product__title"><a href="https://amabilejewels.it/prodotto/set-zenzy-placcato-oro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">SET ZENZY PLACCATO ORO</a></h2>
+	<span class="price"><ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>114,90</bdi></span></ins> <del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>117,60</bdi></span></del></span>
+<div class="buttons clearfix"><a href="/shop/?filter=1&#038;add-to-cart=179271" data-quantity="1" class="button product_type_bundle add_to_cart_button ajax_add_to_cart woocommerce-loop-product__button" data-product_id="179271" data-product_sku="set-zenzy-o" aria-label="Leggi di più su &quot;SET ZENZY PLACCATO ORO&quot;" aria-describedby="" rel="nofollow">Aggiungi al carrello</a><a href="https://amabilejewels.it/prodotto/set-zenzy-placcato-oro/" class="quick_view_button quick-view-button button" data-toggle="modal" data-target="quick-view-modal" data-product_id="179271" rel="nofollow">
+				<span class="svg-icon icon-eye size-normal "><svg role="img"> <use href="#eye" xlink:href="#eye"></use> </svg></span>
+			</a><a href="/shop/?filter=1&#038;add_to_wishlist=179271" data-product_id="179271" data-product_type="bundle" class="button add-to-wishlist-button add-to-wishlist-179271 " rel="nofollow">
+				<span class="add-to-wishlist add">
+					<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="adding-to-wishlist adding">
+					<span class="spinner"></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="brow-wishlist added">
+					<span class="svg-icon icon-heart size-normal "><svg role="img"> <use href="#heart" xlink:href="#heart"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+			</a></div></div></div></li>
+<li class="product type-product post-179465 status-publish last product_cat-set product_tag-argento-925 has-post-thumbnail sale taxable shipping-taxable purchasable product-type-bundle outofstock insufficientstock">
+	<div class="product-inner"><span class="woocommerce-badges woocommerce-badges--rectangle">
+	<span class="onsale woocommerce-badge"><span>SCONTO</span></span>
+	<span class="sold-out woocommerce-badge"><span>Esaurito</span></span></span><div class="product-thumbnail"><a href="https://amabilejewels.it/prodotto/set-spedizioni-argento/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="680" height="680" src="https://amabilejewels.it/wp-content/uploads/2023/12/pacchi-arg-1-680x680.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://amabilejewels.it/wp-content/uploads/2023/12/pacchi-arg-1-680x680.jpg 680w, https://amabilejewels.it/wp-content/uploads/2023/12/pacchi-arg-1-150x150.jpg 150w" sizes="(max-width: 680px) 100vw, 680px" /></a></div><div class="product-summary"><h2 class="woocommerce-loop-product__title"><a href="https://amabilejewels.it/prodotto/set-spedizioni-argento/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">SET REPARTO PACCHI ARGENTO</a></h2>
+	<span class="price"><ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>92,90</bdi></span></ins> <del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>95,60</bdi></span></del></span>
+<div class="buttons clearfix"><a href="https://amabilejewels.it/prodotto/set-spedizioni-argento/" data-quantity="1" class="button product_type_bundle product_type_bundle_input_required woocommerce-loop-product__button" data-product_id="179465" data-product_sku="set-spedizioni-a" aria-label="Leggi di più su &quot;SET REPARTO PACCHI ARGENTO&quot;" aria-describedby="" rel="nofollow">Leggi tutto</a><a href="https://amabilejewels.it/prodotto/set-spedizioni-argento/" class="quick_view_button quick-view-button button" data-toggle="modal" data-target="quick-view-modal" data-product_id="179465" rel="nofollow">
+				<span class="svg-icon icon-eye size-normal "><svg role="img"> <use href="#eye" xlink:href="#eye"></use> </svg></span>
+			</a><a href="/shop/?filter=1&#038;add_to_wishlist=179465" data-product_id="179465" data-product_type="bundle" class="button add-to-wishlist-button add-to-wishlist-179465 " rel="nofollow">
+				<span class="add-to-wishlist add">
+					<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="adding-to-wishlist adding">
+					<span class="spinner"></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="brow-wishlist added">
+					<span class="svg-icon icon-heart size-normal "><svg role="img"> <use href="#heart" xlink:href="#heart"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+			</a></div></div></div></li>
+<li class="product type-product post-179449 status-publish first product_cat-set product_tag-argento-925-placcato-oro has-post-thumbnail sale taxable shipping-taxable purchasable product-type-bundle outofstock insufficientstock">
+	<div class="product-inner"><span class="woocommerce-badges woocommerce-badges--rectangle">
+	<span class="onsale woocommerce-badge"><span>SCONTO</span></span>
+	<span class="sold-out woocommerce-badge"><span>Esaurito</span></span></span><div class="product-thumbnail"><a href="https://amabilejewels.it/prodotto/set-spedizioni-placcato-oro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="680" height="680" src="https://amabilejewels.it/wp-content/uploads/2023/12/pacchi-oro-1-680x680.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://amabilejewels.it/wp-content/uploads/2023/12/pacchi-oro-1-680x680.jpg 680w, https://amabilejewels.it/wp-content/uploads/2023/12/pacchi-oro-1-150x150.jpg 150w" sizes="(max-width: 680px) 100vw, 680px" /></a></div><div class="product-summary"><h2 class="woocommerce-loop-product__title"><a href="https://amabilejewels.it/prodotto/set-spedizioni-placcato-oro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">SET REPARTO PACCHI PLACCATO ORO</a></h2>
+	<span class="price"><ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>102,90</bdi></span></ins> <del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>105,60</bdi></span></del></span>
+<div class="buttons clearfix"><a href="https://amabilejewels.it/prodotto/set-spedizioni-placcato-oro/" data-quantity="1" class="button product_type_bundle product_type_bundle_input_required woocommerce-loop-product__button" data-product_id="179449" data-product_sku="set-spedizioni-o" aria-label="Leggi di più su &quot;SET REPARTO PACCHI PLACCATO ORO&quot;" aria-describedby="" rel="nofollow">Leggi tutto</a><a href="https://amabilejewels.it/prodotto/set-spedizioni-placcato-oro/" class="quick_view_button quick-view-button button" data-toggle="modal" data-target="quick-view-modal" data-product_id="179449" rel="nofollow">
+				<span class="svg-icon icon-eye size-normal "><svg role="img"> <use href="#eye" xlink:href="#eye"></use> </svg></span>
+			</a><a href="/shop/?filter=1&#038;add_to_wishlist=179449" data-product_id="179449" data-product_type="bundle" class="button add-to-wishlist-button add-to-wishlist-179449 " rel="nofollow">
+				<span class="add-to-wishlist add">
+					<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="adding-to-wishlist adding">
+					<span class="spinner"></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="brow-wishlist added">
+					<span class="svg-icon icon-heart size-normal "><svg role="img"> <use href="#heart" xlink:href="#heart"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+			</a></div></div></div></li>
+<li class="product type-product post-179423 status-publish product_cat-set product_tag-argento-925 has-post-thumbnail sale taxable shipping-taxable purchasable product-type-bundle outofstock insufficientstock">
+	<div class="product-inner"><span class="woocommerce-badges woocommerce-badges--rectangle">
+	<span class="onsale woocommerce-badge"><span>SCONTO</span></span>
+	<span class="sold-out woocommerce-badge"><span>Esaurito</span></span></span><div class="product-thumbnail"><a href="https://amabilejewels.it/prodotto/set-ufficio-acquisti-argento/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="680" height="680" src="https://amabilejewels.it/wp-content/uploads/2023/12/ufficio-acquisti-arg-680x680.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://amabilejewels.it/wp-content/uploads/2023/12/ufficio-acquisti-arg-680x680.jpg 680w, https://amabilejewels.it/wp-content/uploads/2023/12/ufficio-acquisti-arg-150x150.jpg 150w" sizes="(max-width: 680px) 100vw, 680px" /></a></div><div class="product-summary"><h2 class="woocommerce-loop-product__title"><a href="https://amabilejewels.it/prodotto/set-ufficio-acquisti-argento/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">SET UFFICIO ACQUISTI ARGENTO</a></h2>
+	<span class="price"><ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>88,90</bdi></span></ins> <del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>91,60</bdi></span></del></span>
+<div class="buttons clearfix"><a href="https://amabilejewels.it/prodotto/set-ufficio-acquisti-argento/" data-quantity="1" class="button product_type_bundle product_type_bundle_input_required woocommerce-loop-product__button" data-product_id="179423" data-product_sku="set-ufficio-acquisti-a" aria-label="Leggi di più su &quot;SET UFFICIO ACQUISTI ARGENTO&quot;" aria-describedby="" rel="nofollow">Leggi tutto</a><a href="https://amabilejewels.it/prodotto/set-ufficio-acquisti-argento/" class="quick_view_button quick-view-button button" data-toggle="modal" data-target="quick-view-modal" data-product_id="179423" rel="nofollow">
+				<span class="svg-icon icon-eye size-normal "><svg role="img"> <use href="#eye" xlink:href="#eye"></use> </svg></span>
+			</a><a href="/shop/?filter=1&#038;add_to_wishlist=179423" data-product_id="179423" data-product_type="bundle" class="button add-to-wishlist-button add-to-wishlist-179423 " rel="nofollow">
+				<span class="add-to-wishlist add">
+					<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="adding-to-wishlist adding">
+					<span class="spinner"></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="brow-wishlist added">
+					<span class="svg-icon icon-heart size-normal "><svg role="img"> <use href="#heart" xlink:href="#heart"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+			</a></div></div></div></li>
+<li class="product type-product post-179422 status-publish last instock product_cat-set product_tag-argento-925-placcato-oro has-post-thumbnail sale taxable shipping-taxable purchasable product-type-bundle">
+	<div class="product-inner"><span class="woocommerce-badges woocommerce-badges--rectangle">
+	<span class="onsale woocommerce-badge"><span>SCONTO</span></span>
+	</span><div class="product-thumbnail"><a href="https://amabilejewels.it/prodotto/set-ufficio-acquisti-placcato-oro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="680" height="680" src="https://amabilejewels.it/wp-content/uploads/2023/12/ufficio-acquisti-oro-680x680.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://amabilejewels.it/wp-content/uploads/2023/12/ufficio-acquisti-oro-680x680.jpg 680w, https://amabilejewels.it/wp-content/uploads/2023/12/ufficio-acquisti-oro-150x150.jpg 150w" sizes="(max-width: 680px) 100vw, 680px" /></a></div><div class="product-summary"><h2 class="woocommerce-loop-product__title"><a href="https://amabilejewels.it/prodotto/set-ufficio-acquisti-placcato-oro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">SET UFFICIO ACQUISTI PLACCATO ORO</a></h2>
+	<span class="price"><ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>99,90</bdi></span></ins> <del><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&euro;</span>103,60</bdi></span></del></span>
+<div class="buttons clearfix"><a href="/shop/?filter=1&#038;add-to-cart=179422" data-quantity="1" class="button product_type_bundle add_to_cart_button ajax_add_to_cart woocommerce-loop-product__button" data-product_id="179422" data-product_sku="set-ufficio-acquisti-o" aria-label="Leggi di più su &quot;SET UFFICIO ACQUISTI PLACCATO ORO&quot;" aria-describedby="" rel="nofollow">Aggiungi al carrello</a><a href="https://amabilejewels.it/prodotto/set-ufficio-acquisti-placcato-oro/" class="quick_view_button quick-view-button button" data-toggle="modal" data-target="quick-view-modal" data-product_id="179422" rel="nofollow">
+				<span class="svg-icon icon-eye size-normal "><svg role="img"> <use href="#eye" xlink:href="#eye"></use> </svg></span>
+			</a><a href="/shop/?filter=1&#038;add_to_wishlist=179422" data-product_id="179422" data-product_type="bundle" class="button add-to-wishlist-button add-to-wishlist-179422 " rel="nofollow">
+				<span class="add-to-wishlist add">
+					<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="adding-to-wishlist adding">
+					<span class="spinner"></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+				<span class="brow-wishlist added">
+					<span class="svg-icon icon-heart size-normal "><svg role="img"> <use href="#heart" xlink:href="#heart"></use> </svg></span>
+					<span class="screen-reader-text button-text">Lista dei desideri</span>
+				</span>
+			</a></div></div></div></li>
+</ul><nav class="woocommerce-navigation next-posts-navigation ajax-navigation ajax-loadmore"><div class="nav-links"><a href="https://amabilejewels.it/shop/page/2/?filter=1" >Caricare di più</a></div></nav>		</main><!-- #main -->
+		</div><!-- #primary -->
+		
+<aside id="secondary" class="widget-area shop-sidebar sticky-sidebar">
+	<section id="konte-products-filter-1" class="widget woocommerce products-filter-widget"><form action="https://amabilejewels.it/shop/" method="get" class="ajax-filter instant-filter"><div class="filters">
+		<div class="filter product_cat checkboxes ">
+							<span class="filter-name">FILTRA PER CATEGORIE</span>
+			
+			<div class="filter-control">
+				<ul class="filter-checkboxes"><li class="filter-checkboxes-item " data-value="i-nostri-classici"><span class="name">I NOSTRI CLASSICI</span><span class="count">16</span></li><li class="filter-checkboxes-item " data-value="i-nostri-colorati"><span class="name">I NOSTRI COLORATI</span><span class="count">62</span></li><li class="filter-checkboxes-item " data-value="i-nostri-esclusivi"><span class="name">I NOSTRI ESCLUSIVI</span><span class="count">40</span></li><li class="filter-checkboxes-item " data-value="lovli"><span class="name">LOVLI</span><span class="count">61</span></li><li class="filter-checkboxes-item " data-value="set"><span class="name">SET</span><span class="count">53</span></li><li class="filter-checkboxes-item " data-value="anelli"><span class="name">ANELLI</span><span class="count">43</span></li><li class="filter-checkboxes-item " data-value="braccialetti"><span class="name">BRACCIALI</span><span class="count">11</span></li><li class="filter-checkboxes-item " data-value="collane"><span class="name">COLLANE</span><span class="count">36</span></li><li class="filter-checkboxes-item " data-value="orecchini"><span class="name">ORECCHINI</span><span class="count">172</span></li><li class="filter-checkboxes-item " data-value="buono-regalo"><span class="name">BUONO REGALO</span><span class="count">1</span></li></ul><input type="hidden" name="product_cat" value="" disabled>			</div>
+		</div>
+
+		
+		<div class="filter product_tag checkboxes ">
+							<span class="filter-name">FILTRA PER MATERIALE</span>
+			
+			<div class="filter-control">
+				<ul class="filter-checkboxes"><li class="filter-checkboxes-item " data-value="argento-925"><span class="name">ARGENTO 925</span><span class="count">126</span></li><li class="filter-checkboxes-item " data-value="argento-925-placcato-oro"><span class="name">ARGENTO 925 PLACCATO ORO</span><span class="count">129</span></li></ul><input type="hidden" name="product_tag" value="" disabled>			</div>
+		</div>
+
+		
+		<div class="filter price slider ">
+							<span class="filter-name">FILTRA PER PREZZO</span>
+			
+			<div class="filter-control">
+				<div class="widget woocommerce widget_price_filter"><h2 class="widgettitle">Filtra per prezzo</h2>
+
+	<div class="price_slider_wrapper">
+		<div class="price_slider" style="display:none;"></div>
+		<div class="price_slider_amount" data-step="10">
+			<label class="screen-reader-text" for="min_price">Prezzo Min</label>
+			<input type="text" id="min_price" name="min_price" value="0" data-min="0" placeholder="Prezzo Min" />
+			<label class="screen-reader-text" for="max_price">Prezzo Max</label>
+			<input type="text" id="max_price" name="max_price" value="320" data-max="320" placeholder="Prezzo Max" />
+						<button type="submit" class="button">Filtra</button>
+			<div class="price_label" style="display:none;">
+				Prezzo: <span class="from"></span> &mdash; <span class="to"></span>
+			</div>
+			<input type="hidden" name="filter" value="1" />			<div class="clear"></div>
+		</div>
+	</div>
+
+
+</div>			</div>
+		</div>
+
+		<input type="hidden" name="filter" value="1"></div><button type="submit" value="Filter" class="button filter-button">Filter</button><button type="reset" value="Reset Filter" class="button alt reset-button">Reset Filter</button><span class="products-loader"><span class="spinner"></span></span></form></section></aside><!-- #secondary -->
+
+</div><!-- .site-content-container -->
+
+
+</div><!-- #content -->
+
+
+<footer id="colophon" class="site-footer light text-dark">
+
+	
+	<div class="footer-extra">
+		<div class="footer-container konte-container">
+			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-3 vc_col-lg-6 vc_col-md-offset-2 vc_col-md-8"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center">Ricevi le nostre promozioni esclusive</h2>
+<p style="font-size: 16px;text-align: center">Iscriviti alla nostra newsletter</p>
+<script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.9.7 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-77" method="post" data-id="77" data-name="Subscribe Form" ><div class="mc4wp-form-fields">				<input type="email" name="EMAIL" placeholder="La tua mail migliore" required autocomplete="off" />
+<input type="submit" value="Ottieni i vantaggi" />		</div><label style="display: none !important;">Lascia questo campo vuoto se sei umano: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1704221568" /><input type="hidden" name="_mc4wp_form_id" value="77" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->
+
+		</div>
+	</div>
+</div></div></div></div>		</div>
+	</div>
+
+<div class="footer-widgets widgets-area widgets-4-columns ">
+	<div class="footer-container konte-container">
+		<div class="row">
+
+			
+				<div class="footer-widgets-area-1 footer-widgets-area col-xs-12 col-sm-6 col-md-3">
+					<div id="media_image-2" class="widget widget_media_image"><a href="https://amabilejewels.it/"><img width="277" height="40" src="https://amabilejewels.it/wp-content/uploads/2020/08/amabile-e1596280039979.jpg" class="image wp-image-782  attachment-full size-full" alt="" decoding="async" style="max-width: 100%; height: auto;" loading="lazy" srcset="https://amabilejewels.it/wp-content/uploads/2020/08/amabile-e1596280039979.jpg 277w, https://amabilejewels.it/wp-content/uploads/2020/08/amabile-e1596280039979-64x9.jpg 64w" sizes="(max-width: 277px) 100vw, 277px" /></a></div>				</div>
+				
+				<div class="footer-widgets-area-2 footer-widgets-area col-xs-12 col-sm-6 col-md-3">
+					<div id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget-title">CATEGORIE PRODOTTI</h4><div class="menu-menu-rompina-container"><ul id="menu-menu-rompina-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29178"><a href="https://amabilejewels.it/categoria-prodotto/lovli/">LOVLI</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-3059"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/">ORECCHINI</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29525"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/i-nostri-classici/">I NOSTRI CLASSICI</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29531"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/i-nostri-colorati/">I NOSTRI COLORATI</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29544"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/i-nostri-esclusivi/">I NOSTRI ESCLUSIVI</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3061"><a href="https://amabilejewels.it/categoria-prodotto/collane/">COLLANE</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3060"><a href="https://amabilejewels.it/categoria-prodotto/anelli/">ANELLI</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3062"><a href="https://amabilejewels.it/categoria-prodotto/braccialetti/">BRACCIALI</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-79172"><a href="https://amabilejewels.it/categoria-prodotto/set/">SET</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item menu-item-3066"><a href="https://amabilejewels.it/shop/" aria-current="page">TUTTI I GIOIELLI</a></li>
+</ul></div></div>				</div>
+				
+				<div class="footer-widgets-area-3 footer-widgets-area col-xs-12 col-sm-6 col-md-3">
+					<div id="nav_menu-5" class="widget widget_nav_menu"><h4 class="widget-title">MENU</h4><div class="menu-full-menu-desktop-container"><ul id="menu-full-menu-desktop" class="menu"><li id="menu-item-23712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23712"><a href="https://amabilejewels.it/blog-di-amabile/">BLOG DI AMABILE</a></li>
+<li id="menu-item-3121" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3121"><a href="https://amabilejewels.it/categoria-prodotto/buono-regalo/">BUONI REGALO</a></li>
+<li id="menu-item-3087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3087"><a href="https://amabilejewels.it/chi-siamo/">CHI SIAMO</a></li>
+<li id="menu-item-3096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3096"><a href="https://amabilejewels.it/guida-alle-taglie/">GUIDA ALLE TAGLIE</a></li>
+<li id="menu-item-3352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3352"><a href="https://amabilejewels.it/faq/">FAQ</a></li>
+<li id="menu-item-3088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3088"><a href="https://amabilejewels.it/contatti/">CONTATTI</a></li>
+</ul></div></div>				</div>
+				
+				<div class="footer-widgets-area-4 footer-widgets-area col-xs-12 col-sm-6 col-md-3">
+					<div id="nav_menu-4" class="widget widget_nav_menu"><h4 class="widget-title">INFORMAZIONI</h4><div class="menu-footer_menu_2-container"><ul id="menu-footer_menu_2" class="menu"><li id="menu-item-16221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16221"><a href="https://www.iubenda.com/privacy-policy/52304325/cookie-policy">COOKIE POLICY</a></li>
+<li id="menu-item-1025" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1025"><a href="https://www.iubenda.com/privacy-policy/52304325">PRIVACY POLICY</a></li>
+<li id="menu-item-1034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034"><a href="https://amabilejewels.it/reso-gratuito/">RESO PER SOSTITUZIONE</a></li>
+<li id="menu-item-910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-910"><a href="https://amabilejewels.it/condizioni-generali-di-vendita/">CONDIZIONI GENERALI DI VENDITA</a></li>
+<li id="menu-item-139482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139482"><a href="https://amabilejewels.it/regolamento/">REGOLAMENTO CONCORSO</a></li>
+<li id="menu-item-908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-908"><a href="https://amabilejewels.it/contatti/">CONTATTI</a></li>
+</ul></div></div>				</div>
+				
+		</div>
+	</div>
+</div><div class="footer-main site-info items-vertical">
+			<div class="footer-container konte-container">
+			<hr class="divider">
+		</div>
+	
+	<div class="footer-container konte-container">
+		
+			<div class="footer-items footer-left">
+				<div class="socials-menu "><ul id="footer-socials" class="menu"><li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a title="
+						" href="https://www.facebook.com/amabilejewels.it"><span>Facebook</span></a></li>
+<li id="menu-item-2757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2757"><a title="
+						" href="https://www.instagram.com/amabile_jewels/"><span>Instagram</span></a></li>
+</ul></div><div class="copyright">Copyright © 2022 Amabile SRL - P.IVA: 04004710366 </div>			</div>
+
+		
+			<div class="footer-items footer-right">
+				<div class="custom-text"><img src="https://amabilejewels.it/wp-content/uploads/2023/12/metodi-di-pagamento.png"></div>			</div>
+
+			</div>
+</div>
+
+</footer><!-- #colophon -->
+
+
+</div><!-- #page -->
+
+
+	<div id="hamburger-fullscreen" class="hamburger-fullscreen content-menu content-animation-slide">
+		<div class="hamburger-menu button-close">
+			<div class="hamburger-box">
+				<div class="hamburger-inner"></div>
+			</div>
+			<span class="menu-text">Chiudere</span>
+		</div>
+
+		<div class="hamburger-screen-inner">
+			<div class="site-branding">
+	<a href="https://amabilejewels.it" class="logo">
+					<img src="https://amabilejewels.it/wp-content/uploads/2023/02/SCRITTAAMABILE.png" alt="Amabile Jewels" class="logo-dark" width="135" height="40">
+			<img src="https://amabilejewels.it/wp-content/uploads/2023/02/SCRITTAAMABILE.png" alt="Amabile Jewels" class="logo-light" width="135" height="40">
+			</a>
+
+		</div>
+
+			<div class="hamburger-screen-content">
+									<nav id="fullscreen-menu" class="fullscreen-menu hamburger-navigation click-open">
+						<ul id="menu-full-menu-desktop-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23712"><a href="https://amabilejewels.it/blog-di-amabile/">BLOG DI AMABILE</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3121"><a href="https://amabilejewels.it/categoria-prodotto/buono-regalo/">BUONI REGALO</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3087"><a href="https://amabilejewels.it/chi-siamo/">CHI SIAMO</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3096"><a href="https://amabilejewels.it/guida-alle-taglie/">GUIDA ALLE TAGLIE</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3352"><a href="https://amabilejewels.it/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3088"><a href="https://amabilejewels.it/contatti/">CONTATTI</a></li>
+</ul>					</nav>
+				
+									<div class="fullscreen-footer">
+											</div>
+				
+									<div class="social-icons">
+						<div class="socials-menu "><ul id="footer-socials" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a title="
+						" href="https://www.facebook.com/amabilejewels.it"><span>Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2757"><a title="
+						" href="https://www.instagram.com/amabile_jewels/"><span>Instagram</span></a></li>
+</ul></div>					</div>
+							</div><!-- .hamburger-screen-content -->
+
+			<div class="hamburger-screen-background"></div>
+		</div>
+	</div>
+
+		<div id="login-panel" class="login-panel offscreen-panel">
+		<div class="backdrop"></div>
+		<div class="panel">
+			<div class="hamburger-menu button-close active">
+				<span class="menu-text">Chiudere</span>
+
+				<div class="hamburger-box">
+					<div class="hamburger-inner"></div>
+				</div>
+			</div>
+
+			<div class="panel-header">
+				<h3>Accedi</h3>
+			</div>
+
+			<div class="panel-content">
+				<form class="woocommerce-form woocommerce-form-login login" method="post">
+
+					
+					<p class="form-row">
+						<label for="panel_username">Nome utente</label>
+						<input type="text" class="input-text" name="username" id="panel_username" />
+					</p>
+					<p class="form-row">
+						<label for="panel_password">Password</label>
+						<input class="input-text" type="password" name="password" id="panel_password" />
+					</p>
+
+					
+					<p class="form-row">
+						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox inline">
+							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" value="forever" />
+							<span>Ricordati di me</span>
+						</label>
+					</p>
+
+					<p class="form-row">
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8399b64a8a" /><input type="hidden" name="_wp_http_referer" value="/shop/?filter=1" />						<button type="submit" class="button large" name="login" value="Accedi" data-signing="Siging in..." data-signed="Firmato In">Accedi</button>
+
+													<span class="create-account button large alt">Creare Un Account</span>
+											</p>
+
+					
+					<p class="lost_password">
+						<a href="https://amabilejewels.it/my-account/lost-password/">Hai perso la password?</a>
+					</p>
+
+				</form>
+
+				
+					<form method="post" class="woocommerce-form woocommerce-form-register register" style="display: none;">
+
+						
+						
+							<p class="form-row form-row-wide">
+								<label for="panel_reg_username">Nome utente									<span class="required">*</span></label>
+								<input type="text" class="input-text" name="username" id="panel_reg_username" value="" />							</p>
+
+						
+						<p class="form-row form-row-wide">
+							<label for="panel_reg_email">Indirizzo e-mail</label>
+							<input type="email" class="input-text" name="email" id="panel_reg_email" value="" />						</p>
+
+						
+							<p class="form-row form-row-wide">
+								<label for="panel_reg_password">Password</label>
+								<input type="password" class="input-text" name="password" id="panel_reg_password" />
+							</p>
+
+						
+						<p class="form-row form-row-wide mailchimp-newsletter"><label for="mailchimp_woocommerce_newsletter" class="woocommerce-form__label woocommerce-form__label-for-checkbox inline"><input class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox" id="mailchimp_woocommerce_newsletter" type="checkbox" name="mailchimp_woocommerce_newsletter" value="1" checked="checked"> <span>
+Iscriviti alla nostra Newsletter</span></label></p><div class="clear"></div><div class="woocommerce-privacy-policy-text"><p>I tuoi dati personali verranno utilizzati per supportare la tua esperienza su questo sito web, per gestire l'accesso al tuo account e per altri scopi descritti nella nostra <a href="https://amabilejewels.it/privacy-policy/" class="woocommerce-privacy-policy-link" target="_blank">privacy policy</a>.</p>
+</div>
+						<p class="form-row">
+							<input type="hidden" id="woocommerce-register-nonce" name="woocommerce-register-nonce" value="004ec794e8" /><input type="hidden" name="_wp_http_referer" value="/shop/?filter=1" />							<button type="submit" class="button large" name="register" value="Iscriviti">Iscriviti</button>
+						</p>
+
+						
+						<p class="already_registered">
+							<a href="#" class="login">Ha già un account</a>
+						</p>
+
+					</form>
+
+							</div>
+		</div>
+	</div>
+		<div id="cart-panel" class="cart-panel offscreen-panel">
+		<div class="backdrop"></div>
+		<div class="panel">
+			<div class="hamburger-menu button-close active">
+				<span class="menu-text">Chiudere</span>
+
+				<div class="hamburger-box">
+					<div class="hamburger-inner"></div>
+				</div>
+			</div>
+
+			<div class="panel-header">
+				<h3>Carrello					<span class="cart-panel-counter">(0)</span></h3>
+			</div>
+
+			<div class="panel-content woocommerce">
+				<div class="widget_shopping_cart_content">
+					
+
+	<p class="woocommerce-mini-cart__empty-message">
+		<img src="https://amabilejewels.it/wp-content/themes/konte/images/empty-bag.svg" alt="Carrello è vuoto">
+		Non ci sono prodotti nel carrello.	</p>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<a href="#page" id="gotop" class="gotop"><span class="svg-icon icon-arrow-down size-normal "><svg role="img"> <use href="#arrow-down" xlink:href="#arrow-down"></use> </svg></span></a>
+	<div id="mobile-menu" class="mobile-menu-panel offscreen-panel">
+		<div class="backdrop"></div>
+		<div class="panel">
+			
+	<div class="header-mobile custom logo-center">
+		<div class="konte-container-fluid">
+			
+<div class="mobile-menu-hamburger">
+	<button class="mobile-menu-toggle hamburger-menu" data-toggle="off-canvas" data-target="mobile-menu">
+		<span class="hamburger-box">
+			<span class="hamburger-inner"></span>
+		</span>
+	</button>
+</div>
+
+	<div class="site-branding">
+	<a href="https://amabilejewels.it" class="logo">
+					<img src="https://amabilejewels.it/wp-content/uploads/2023/02/SCRITTAAMABILE.png" alt="Amabile Jewels" class="logo-dark" width="135" height="40">
+			<img src="https://amabilejewels.it/wp-content/uploads/2023/02/SCRITTAAMABILE.png" alt="Amabile Jewels" class="logo-light" width="135" height="40">
+			</a>
+
+		</div>
+
+<div class="mobile-header-icons">
+	
+<div class="header-cart">
+	<a href="https://amabilejewels.it/carrello/" data-toggle="off-canvas" data-target="cart-panel">
+		<span class="svg-icon icon-cart size-normal shopping-cart-icon"><svg role="img"> <use href="#cart" xlink:href="#cart"></use> </svg></span>		<span class="counter cart-counter">0</span>
+	</a>
+</div>
+</div>
+		</div>
+	</div>
+
+										<div class="mobile-menu__search-form">
+							<form method="get" action="https://amabilejewels.it/">
+								<label>
+									<span class="svg-icon icon-search size-normal search-icon"><svg role="img"> <use href="#search" xlink:href="#search"></use> </svg></span>									<input type="text" name="s" class="search-field" value="" placeholder="Ricerca" autocomplete="off">
+																			<input type="hidden" name="post_type" value="product">
+																	</label>
+							</form>
+						</div>
+						<nav class="mobile-menu__nav"><ul id="menu-full-menu-mobile" class="menu"><li id="menu-item-5576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5576"><a href="https://amabilejewels.it/">HOMEPAGE</a></li>
+<li id="menu-item-3107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children current-menu-item current_page_item menu-item-3107"><a href="https://amabilejewels.it/shop/" aria-current="page">SHOP</a>
+<ul class="sub-menu">
+	<li id="menu-item-97174" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-97174"><a href="https://amabilejewels.it/categoria-prodotto/set/">SET</a></li>
+	<li id="menu-item-29177" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29177"><a href="https://amabilejewels.it/categoria-prodotto/lovli/">LOVLI</a></li>
+	<li id="menu-item-3108" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-3108"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/">ORECCHINI</a>
+	<ul class="sub-menu">
+		<li id="menu-item-29523" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29523"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/i-nostri-classici/">I NOSTRI CLASSICI</a></li>
+		<li id="menu-item-29532" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29532"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/i-nostri-colorati/">I NOSTRI COLORATI</a></li>
+		<li id="menu-item-29542" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29542"><a href="https://amabilejewels.it/categoria-prodotto/orecchini/i-nostri-esclusivi/">I NOSTRI ESCLUSIVI</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3109" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3109"><a href="https://amabilejewels.it/categoria-prodotto/anelli/">ANELLI</a></li>
+	<li id="menu-item-3110" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3110"><a href="https://amabilejewels.it/categoria-prodotto/collane/">COLLANE</a></li>
+	<li id="menu-item-3111" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3111"><a href="https://amabilejewels.it/categoria-prodotto/braccialetti/">BRACCIALI</a></li>
+	<li id="menu-item-3112" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3112"><a href="https://amabilejewels.it/categoria-prodotto/buono-regalo/">BUONI REGALO</a></li>
+	<li id="menu-item-3113" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item menu-item-3113"><a href="https://amabilejewels.it/shop/" aria-current="page">TUTTI I GIOIELLI</a></li>
+</ul>
+</li>
+<li id="menu-item-23711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23711"><a href="https://amabilejewels.it/blog-di-amabile/">BLOG DI AMABILE</a></li>
+<li id="menu-item-3119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3119"><a href="https://amabilejewels.it/guida-alle-taglie/">GUIDA ALLE TAGLIE</a></li>
+<li id="menu-item-3115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3115"><a href="https://amabilejewels.it/chi-siamo/">CHI SIAMO</a></li>
+<li id="menu-item-3116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3116"><a href="https://amabilejewels.it/contatti/">CONTATTI</a></li>
+</ul></nav><hr class="mobile-menu__divider divider">						<div class="mobile-menu__cart">
+							<a href="https://amabilejewels.it/carrello/">
+								<span class="mobile-menu__cart-text">Carrello</span>
+								<span class="mobile-menu__cart-icon">
+									<span class="svg-icon icon-cart size-normal shopping-cart-icon"><svg role="img"> <use href="#cart" xlink:href="#cart"></use> </svg></span>									<span class="counter cart-counter">0</span>
+								</span>
+							</a>
+						</div>
+						<div class="mobile-menu__wishlist">
+									<a href="https://amabilejewels.it/wishlist-2/" class="wishlist-contents">
+										<span class="mobile-menu__wishlist-text">Lista dei desideri</span>
+										<span class="mobile-menu__wishlist-icon">
+											<span class="svg-icon icon-heart-o size-normal "><svg role="img"> <use href="#heart-o" xlink:href="#heart-o"></use> </svg></span>
+											<span class="counter wishlist-counter">0</span>
+										</span>
+									</a>
+								</div><hr class="mobile-menu__divider divider"><div class="mobile-menu__account-login">
+									<a href="https://amabilejewels.it/my-account/">Accedi</a>
+								</div><hr class="mobile-menu__divider divider"><div class="mobile-menu__socials socials-menu"><ul id="footer-socials" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a title="
+						" href="https://www.facebook.com/amabilejewels.it"><span>Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2757"><a title="
+						" href="https://www.instagram.com/amabile_jewels/"><span>Instagram</span></a></li>
+</ul></div>		</div>
+	</div>
+
+	
+		<div id="quick-view-modal" class="quick-view-modal modal">
+			<div class="backdrop"></div>
+			<div class="modal-content container woocommerce">
+				<div class="hamburger-menu button-close active">
+					<span class="menu-text">Chiudere</span>
+					<div class="hamburger-box">
+						<div class="hamburger-inner"></div>
+					</div>
+				</div>
+				<div class="product"></div>
+				<span class="modal-loader"><span class="spinner"></span></span>
+			</div>
+		</div>
+
+		
+<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/0ebdc008f8bb72428ddf2a774/b4e89d5d82e1337b533dd73f9.js");</script><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/amabilejewels.it"}},{"@type":"ListItem","position":2,"item":{"name":"Shop","@id":"https:\/\/amabilejewels.it\/shop\/"}}]}</script><div id='pys_ajax_events'></div>        <script>
+            var node = document.getElementsByClassName('woocommerce-message')[0];
+            if(node && document.getElementById('pys_late_event')) {
+                var messageText = node.textContent.trim();
+                if(!messageText) {
+                    node.style.display = 'none';
+                }
+            }
+        </script>
+        <noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=215858579768343&ev=PageView&noscript=1&cd%5Bpage_title%5D=Shop&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=726&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=amabilejewels.it%2Fshop%2F" alt=""></noscript>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='js_composer_front-css' href='https://amabilejewels.it/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.2.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/amabilejewels.it\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.1.1' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.1.1' id='woocommerce-js'></script>
+<script type='text/javascript' id='awdr-main-js-extra'>
+/* <![CDATA[ */
+var awdr_params = {"ajaxurl":"https:\/\/amabilejewels.it\/wp-admin\/admin-ajax.php","nonce":"6768ace8f7","enable_update_price_with_qty":"show_when_matched","refresh_order_review":"0","custom_target_simple_product":"","custom_target_variable_product":"","js_init_trigger":"","awdr_opacity_to_bulk_table":"","awdr_dynamic_bulk_table_status":"0","awdr_dynamic_bulk_table_off":"on","custom_simple_product_id_selector":"","custom_variable_product_id_selector":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woo-discount-rules/v2/Assets/Js/site_main.js?ver=2.6.2' id='awdr-main-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woo-discount-rules/v2/Assets/Js/awdr-dynamic-price.js?ver=2.6.2' id='awdr-dynamic-price-js'></script>
+<script type='text/javascript' id='ppcp-smart-button-js-extra'>
+/* <![CDATA[ */
+var PayPalCommerceGateway = {"url":"https:\/\/www.paypal.com\/sdk\/js?client-id=Ad4W7Nhh-WFsEVHgq0P3RXyDXpW0J43gJrKWMgG9gi_kZ3rX1I_xf5bnDrc_5pG-m-Jldjhs1_aZzAc1&currency=EUR&integration-date=2023-09-26&components=buttons,funding-eligibility,messages&vault=false&commit=false&intent=capture&disable-funding=card&enable-funding=venmo,paylater","url_params":{"client-id":"Ad4W7Nhh-WFsEVHgq0P3RXyDXpW0J43gJrKWMgG9gi_kZ3rX1I_xf5bnDrc_5pG-m-Jldjhs1_aZzAc1","currency":"EUR","integration-date":"2023-09-26","components":"buttons,funding-eligibility,messages","vault":"false","commit":"false","intent":"capture","disable-funding":"card","enable-funding":"venmo,paylater"},"script_attributes":{"data-partner-attribution-id":"Woo_PPCP"},"client_id":"Ad4W7Nhh-WFsEVHgq0P3RXyDXpW0J43gJrKWMgG9gi_kZ3rX1I_xf5bnDrc_5pG-m-Jldjhs1_aZzAc1","currency":"EUR","data_client_id":{"set_attribute":false,"endpoint":"\/?wc-ajax=ppc-data-client-id","nonce":"9dfe342e86","user":0,"has_subscriptions":false,"paypal_subscriptions_enabled":false},"redirect":"https:\/\/amabilejewels.it\/checkout\/","context":"mini-cart","ajax":{"simulate_cart":{"endpoint":"\/?wc-ajax=ppc-simulate-cart","nonce":"86db729ce1"},"change_cart":{"endpoint":"\/?wc-ajax=ppc-change-cart","nonce":"d1e147643a"},"create_order":{"endpoint":"\/?wc-ajax=ppc-create-order","nonce":"ea59318e0d"},"approve_order":{"endpoint":"\/?wc-ajax=ppc-approve-order","nonce":"6a7ba7aeeb"},"approve_subscription":{"endpoint":"\/?wc-ajax=ppc-approve-subscription","nonce":"1ec13ee02b"},"vault_paypal":{"endpoint":"\/?wc-ajax=ppc-vault-paypal","nonce":"f5ae4ce972"},"save_checkout_form":{"endpoint":"\/?wc-ajax=ppc-save-checkout-form","nonce":"ea03fcca09"},"validate_checkout":{"endpoint":"\/?wc-ajax=ppc-validate-checkout","nonce":"04dd10317e"},"cart_script_params":{"endpoint":"\/?wc-ajax=ppc-cart-script-params"}},"subscription_plan_id":"","variable_paypal_subscription_variations":[],"subscription_product_allowed":"","enforce_vault":"","can_save_vault_token":"","is_free_trial_cart":"","vaulted_paypal_email":"","bn_codes":{"checkout":"Woo_PPCP","cart":"Woo_PPCP","mini-cart":"Woo_PPCP","product":"Woo_PPCP"},"payer":null,"button":{"wrapper":"#ppc-button-ppcp-gateway","is_disabled":false,"mini_cart_wrapper":"#ppc-button-minicart","is_mini_cart_disabled":false,"cancel_wrapper":"#ppcp-cancel","mini_cart_style":{"layout":"vertical","color":"gold","shape":"rect","label":"paypal","tagline":false,"height":35},"style":{"layout":"vertical","color":"gold","shape":"rect","label":"paypal","tagline":false}},"separate_buttons":{"card":{"id":"ppcp-card-button-gateway","wrapper":"#ppc-button-ppcp-card-button-gateway","style":{"shape":"rect"}}},"hosted_fields":{"wrapper":"#ppcp-hosted-fields","labels":{"credit_card_number":"","cvv":"","mm_yy":"MM\/YY","fields_empty":"Card payment details are missing. Please fill in all required fields.","fields_not_valid":"Unfortunately, your credit card details are not valid.","card_not_supported":"Unfortunately, we do not support your credit card.","cardholder_name_required":"Cardholder's first and last name are required, please fill the checkout form required fields."},"valid_cards":["mastercard","visa","amex","american-express","master-card"],"contingency":"SCA_WHEN_REQUIRED"},"messages":{"wrapper":"#ppcp-messages","is_hidden":false,"amount":2.99,"placement":"product","style":{"layout":"text","logo":{"type":"primary","position":"left"},"text":{"color":"black"},"color":"blue","ratio":"1x1"}},"labels":{"error":{"generic":"Something went wrong. Please try again or choose another payment source.","required":{"generic":"Required form fields are not filled.","field":"%s \u00e8 un campo obbligatorio.","elements":{"terms":"Leggi e accetta i termini e le condizioni per procedere con l'ordine."}}},"billing_field":"%s di fatturazione","shipping_field":"%s di spedizione"},"order_id":"0","single_product_buttons_enabled":"1","mini_cart_buttons_enabled":"1","basic_checkout_validation_enabled":"","early_checkout_validation_enabled":"1","funding_sources_without_redirect":["paypal","paylater","venmo","card"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.3.1' id='ppcp-smart-button-js'></script>
+<script type='text/javascript' id='mailchimp-woocommerce-js-extra'>
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/amabilejewels.it","ajax_url":"https:\/\/amabilejewels.it\/wp-admin\/admin-ajax.php","disable_carts":"","subscribers_only":"","language":"it","allowed_to_set_cookies":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03' id='mailchimp-woocommerce-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/themes/konte/js/sticky-kit.js?ver=1.1.3' id='sticky-kit-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/themes/konte/js/headroom.min.js?ver=0.9.3' id='headroom-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/jquery/jquery.serialize-object.js?ver=0.2-wp' id='jquery-serialize-object-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/themes/konte/js/background-color-theif.js?ver=1.0' id='background-color-theif-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/themes/konte/js/slick.js?ver=1.8.0' id='slick-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/themes/konte/js/perfect-scrollbar.js?ver=1.4.0' id='perfect-scrollbar-js'></script>
+<script type='text/javascript' id='konte-js-extra'>
+/* <![CDATA[ */
+var konteData = {"ajax_url":"https:\/\/amabilejewels.it\/wp-admin\/admin-ajax.php","rtl":"","preloader":"","sticky_header":"smart","wishlist_count":"0","product_auto_background":"1","product_gallery_slider":"1","product_image_lightbox":"1","product_image_zoom":"1","product_ajax_addtocart":"1","cart_open_after_added":"1","product_quickview_auto_background":"1","popup":"1","popup_frequency":"1","popup_visible":"delay","popup_visible_delay":"10","added_to_cart_notice":"1","added_to_cart_message":"PRODOTTO AGGIUNTO AL CARRELLO","added_to_wishlist_notice":"1","added_to_wishlist_message":"PRODOTTO AGGIUNTO ALLA LISTA DESIDERI","blog_nav_ajax_url_change":"1","shop_nav_ajax_url_change":"1","portfolio_nav_ajax_url_change":"","product_quickview_nonce":"cdec216685","product_search_nonce":"b38eb00ecd","share_nonce":"c9d9b1313d","add_to_cart_nonce":"a6b0f7c811"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/themes/konte/js/scripts.min.js?ver=1.8.1' id='konte-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_f39aa5c6eccd3d7a695ae68910348c0b","fragment_name":"wc_fragments_f39aa5c6eccd3d7a695ae68910348c0b","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=8.1.1' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/wp-util.min.js?ver=6.3.2' id='wp-util-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/konte-addons/assets/js/products-filter.js?ver=20180527' id='konte-products-filter-js'></script>
+<script type='text/javascript' id='soo-wishlist-js-extra'>
+/* <![CDATA[ */
+var soowData = {"ajaxurl":"https:\/\/amabilejewels.it\/wp-admin\/admin-ajax.php","wishlisturl":"https:\/\/amabilejewels.it\/wishlist-2\/","fragments":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/soo-wishlist/assets/js/wishlist.js?ver=1.2.4' id='soo-wishlist-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/variation-swatches-for-woocommerce/assets/js/frontend.js?ver=2.2.0' id='tawcvs-frontend-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b' id='jquery-masonry-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/konte-addons/assets/js/jquery.countdown.js?ver=2.0.4' id='jquery-countdown-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/konte-addons/assets/js/circle-progress.js?ver=1.1.3' id='jquery-circle-progress-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/konte-addons/assets/js/shortcodes.js?ver=20180620' id='konte-addons-shortcodes-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LdLGDYpAAAAAB4pQG79NQvK67Q89_RleD6mt6Ig&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LdLGDYpAAAAAB4pQG79NQvK67Q89_RleD6mt6Ig","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min.js?ver=6.2.0' id='flexslider-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3-wc.8.1.1' id='select2-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-variation-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Nessun prodotto corrisponde alla tua scelta. Prova con un'altra combinazione.","i18n_make_a_selection_text":"Seleziona le opzioni del prodotto prima di aggiungerlo al carrello.","i18n_unavailable_text":"Questo prodotto non \u00e8 disponibile. Scegli un'altra combinazione."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=8.1.1' id='wc-add-to-cart-variation-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/themes/konte/js/notify.min.js?ver=0.4.2' id='notify-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/themes/konte/js/quantity-dropdown.js?ver=1.0.0' id='jquery-quantity-dropdown-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js?ver=8.1.1' id='wc-jquery-ui-touchpunch-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/js/accounting/accounting.min.js?ver=0.4.2' id='accounting-js'></script>
+<script type='text/javascript' id='wc-price-slider-js-extra'>
+/* <![CDATA[ */
+var woocommerce_price_slider_params = {"currency_format_num_decimals":"0","currency_format_symbol":"\u20ac","currency_format_decimal_sep":",","currency_format_thousand_sep":".","currency_format":"%s%v"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/woocommerce/assets/js/frontend/price-slider.min.js?ver=8.1.1' id='wc-price-slider-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.2.0' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='https://amabilejewels.it/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-checkout-gdpr.min.js?ver=3.2' id='mailchimp-woocommerce_gdpr-js'></script>
+<script type='text/javascript' defer src='https://amabilejewels.it/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.7' id='mc4wp-forms-api-js'></script>
+
+</body>
+</html>
